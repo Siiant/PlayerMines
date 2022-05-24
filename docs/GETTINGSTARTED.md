@@ -4,7 +4,7 @@
 
 Creating a mine is very simple, just type **/pmine create** and it will notify you once your mine has been created.
 
-##Interface
+## Interface
 
 To easily interface with your mine, type **/pmine** and it will open a GUI.
 
