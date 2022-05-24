@@ -2,7 +2,7 @@
 
 Commands are separated into two groups, the first one being user commands, and the second being admin commands. Commands may not be issued unless the player has the permission node or have op.
 
-##User Commands
+## User Commands
 
 #### Usage "/pmine (subcommand) [subcommand args]"
 
